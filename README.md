@@ -28,3 +28,6 @@ Content series:
 - Hospital of Tomorrow™: Future healthcare technologies
 
 Proposed Instagram: @hospitalmakeover.ai (availability unverified). Concept schematics are illustrative, not AI-generated or completed projects. Existing local preview, capacity and financial calculators remain demonstrations. No deployment or browser test claimed.
+
+## v0.3 — Project submission portal
+Open `submit.html` locally or follow the homepage submission link. Five steps cover facility, local document previews, priorities, budget/contact and review. Required fields and file limits are checked in the browser. Project receipt and JSON export contain draft metadata only; no file bytes, persistence, server transmission, authentication or review queue. Synthetic data only. Production requires secure storage, authorization, malware scanning, tenant isolation, retention controls, audit and review workflows. Browser testing and deployment remain pending.
